@@ -2,14 +2,13 @@
 
 ### ⚡ About me
 - 🔭 I’m currently working as a Full Stack Software Engineer at an ecommerce company named [divbrands](https://divbrands.io/)
-- 🌱 I’m currently learning CI/CD, Microservices Architecture and Soft Skills.
+- 🌱 I’m currently learning CI/CD, Solutions Architecture and Blockchain.
 
 ### 📫 How to reach me
 - You can find me on [LinkedIn](https://www.linkedin.com/in/soymvillalobos/)
-- Or [Twitter](https://twitter.com/soymvillalobos)
-- Or [Instagram](https://www.instagram.com/soymvillalobos/)
-- Or [Telegram](https://t.me/soymvillalobos)
-- Or maybe you like to use Discord, where you can find me as soymiki#8039 🔥
+- Or [Twitter](https://twitter.com/migueteado)
+- Or [Telegram](https://t.me/migueteado)
+- Or maybe you like to use Discord, where you can find me as migueteado 🔥
 
 ### 🔨 My Tools
 
