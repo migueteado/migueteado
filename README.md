@@ -2,7 +2,6 @@
 
 ### ⚡ About me
 - 🔭 I’m currently working as a Full Stack Software Engineer at an ecommerce company named [divbrands](https://divbrands.io/)
-- 🌱 I’m currently learning CI/CD, Solutions Architecture and Blockchain.
 
 ### 📫 How to reach me
 - You can find me on [LinkedIn](https://www.linkedin.com/in/soymvillalobos/)
